@@ -12,3 +12,7 @@ Simulação de configuração de monitoramento com alertas e dashboards visuais.
 
 ## Objetivo
 Mostrar habilidades em configuração e monitoramento de rede.
+Redução de 30% do tempo de resposta a incidentes graças aos alertas automáticos.
+
+# Hablidades Aplicadas
+Configuração de triggers, criação de dashboards, monitoramento proativo.
